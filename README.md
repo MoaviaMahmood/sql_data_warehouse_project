@@ -2,7 +2,7 @@
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-![Image](https://github.com/user-attachments/assets/beae1949-3504-4b47-9229-a22da157d7ef)
+![Image](https://github.com/user-attachments/assets/e7370c22-afde-426a-a08c-363146ed0819)
 
 ## Project Overview
 This project involves:
